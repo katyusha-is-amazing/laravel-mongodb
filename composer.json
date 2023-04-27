@@ -1,5 +1,5 @@
 {
-    "name": "jenssegers/mongodb",
+    "name": "katyusha/mongodb",
     "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
     "keywords": [
         "laravel",
@@ -19,10 +19,6 @@
     ],
     "license": "MIT",
     "require": {
-        "illuminate/support": "^10.0",
-        "illuminate/container": "^10.0",
-        "illuminate/database": "^10.0",
-        "illuminate/events": "^10.0",
         "mongodb/mongodb": "^1.15"
     },
     "require-dev": {
